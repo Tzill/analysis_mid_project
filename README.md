@@ -1,4 +1,4 @@
-### Проект e-commerce (EDA, Cohort analysis, RFM analysis)
+### Проект e-commerce (EDA, Ad hoc, Cohort analysis, RFM analysis)
 
 #### Вопросы и задачи:
 1. Cколько пользователей, которые совершили покупку только один раз? 
